@@ -1,0 +1,15 @@
+C:\Users\админ\source\repos\bd\bd\bin\Debug\bd.exe.config
+C:\Users\админ\source\repos\bd\bd\bin\Debug\bd.exe
+C:\Users\админ\source\repos\bd\bd\bin\Debug\bd.pdb
+C:\Users\админ\source\repos\bd\bd\obj\Debug\bd.csprojAssemblyReference.cache
+C:\Users\админ\source\repos\bd\bd\obj\Debug\bd.Form1.resources
+C:\Users\админ\source\repos\bd\bd\obj\Debug\bd.Properties.Resources.resources
+C:\Users\админ\source\repos\bd\bd\obj\Debug\bd.csproj.GenerateResource.cache
+C:\Users\админ\source\repos\bd\bd\obj\Debug\bd.csproj.CoreCompileInputs.cache
+C:\Users\админ\source\repos\bd\bd\obj\Debug\bd.exe
+C:\Users\админ\source\repos\bd\bd\obj\Debug\bd.pdb
+C:\Users\админ\source\repos\bd\bd\obj\Debug\bd.Музыкальный_магазин.resources
+C:\Users\админ\source\repos\bd\bd\obj\Debug\bd.Общая_выруча_магазина.resources
+C:\Users\админ\source\repos\bd\bd\obj\Debug\bd.Доход_магазина.resources
+C:\Users\админ\source\repos\bd\bd\obj\Debug\bd.Проданные_альбомы.resources
+C:\Users\админ\source\repos\bd\bd\obj\Debug\bd.Непроданные_товары.resources
